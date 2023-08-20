@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "tab information",
+    "description": "get tab title",
+    "version": "1.0",
+    "permissions": ["activeTab"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon":"images/enemyufo.png"
+    }
+  }
+  
